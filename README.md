@@ -2,7 +2,8 @@
 
 The traditional Geometric Brownian Motion model widely used by financial practitioners assumes that each change in price X(t) is random, independent, and normally distributed. There are moments in which the model contradicts reality and these discrepancies in underlying assumptions give a false sense of option price to the traders and analysts who use the classic Black-Scholes model. It results in the misleading evaluation of risks and wrong trading decisions. This paper provides the methodology to model option price movements based on the latest advances of Mandelbrot’s theory of fractal price movements (Fractional and Multifractional Brownian Motion) and provides a comparison with classic pricing models (classic Black-Scholes, Heston models) on a wide range of historical data.
 
-The full paper is available: https://docs.google.com/document/d/1jW2FdozuQ6ADAAehIhqhEMDflRdcjiS_
+The full paper is available: [https://docs.google.com/document/d/1jW2FdozuQ6ADAAehIhqhEMDflRdcjiS_](https://docs.google.com/document/d/1jW2FdozuQ6ADAAehIhqhEMDflRdcjiS_)
+
 The detailed description of solution design: https://docs.google.com/document/d/1Zi4uJsbMI7R-1XaGri4U4WaH_FopINYL
 
 # How-to
@@ -11,7 +12,7 @@ The detailed description of solution design: https://docs.google.com/document/d/
 The project requires Jupyter Notebook to be installed: https://jupyter.org/install
 
 1. clone the repository and locate to the project's directory;
-2. download the dataset `spx_data.zip` from GDrive and extract to the directory;
+2. download the dataset `spx_data.zip` from [GDrive](https://drive.google.com/drive/folders/1whTjxZp_bPfD-8f-q8OdmYcjNKHS_qQZ?usp=sharing) and extract to the directory;
 3. execute: `source env/bin/activate`;
 4. `pip install -r requirements.txt` to install needed dependencies;
 5. launch 'jupyter notebook' and run '.ipynb' file.
