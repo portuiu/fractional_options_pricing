@@ -1,7 +1,5 @@
 # Modelling Options prices considering Mandelbrotian movement of prices
 
-The traditional Geometric Brownian Motion model widely used by financial practitioners assumes that each change in price X(t) is random, independent, and normally distributed. There are moments in which the model contradicts reality and these discrepancies in underlying assumptions give a false sense of option price to the traders and analysts who use the classic Black-Scholes model. It results in the misleading evaluation of risks and wrong trading decisions. This paper provides the methodology to model option price movements based on the latest advances of Mandelbrot’s theory of fractal price movements (Fractional and Multifractional Brownian Motion) and provides a comparison with classic pricing models (classic Black-Scholes, Heston models) on a wide range of historical data.
-
 The full paper is available: [https://docs.google.com/document/d/1jW2FdozuQ6ADAAehIhqhEMDflRdcjiS_](https://docs.google.com/document/d/1jW2FdozuQ6ADAAehIhqhEMDflRdcjiS_)
 
 The detailed description of solution design: https://docs.google.com/document/d/1Zi4uJsbMI7R-1XaGri4U4WaH_FopINYL
