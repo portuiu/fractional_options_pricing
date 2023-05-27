@@ -13,7 +13,7 @@ The project requires Jupyter Notebook to be installed: https://jupyter.org/insta
 
 1. clone the repository and locate to the project's directory;
 2. download the dataset `spx_data.zip` from [GDrive](https://drive.google.com/drive/folders/1whTjxZp_bPfD-8f-q8OdmYcjNKHS_qQZ?usp=sharing) and extract to the directory;
-3. execute: `source env/bin/activate`;
+3. execute `python3 -m venv venv` to create virtual environment and then execute `source venv/bin/activate`;
 4. `pip install -r requirements.txt` to install needed dependencies;
 5. launch 'jupyter notebook' and run '.ipynb' file.
 
