@@ -18,6 +18,7 @@ The project requires Jupyter Notebook to be installed: https://jupyter.org/insta
 
 ## Cloud
 The project is also available remotely in Datalore Cloud: https://datalore.jetbrains.com/view/notebook/nThPouKjn8gf0tbaYVsvV2
+
 Press "Edit copy" to create your copy of the project and run cells.
 
 # Contributions
